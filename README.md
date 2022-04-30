@@ -2,6 +2,8 @@
 # João Lumertz
 
 ![Stars](https://img.shields.io/github/stars/joaolumertz?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/joaolumertz/joaolumertz?style=for-the-badge)
+![Watchers](https://img.shields.io/github/watchers/joaolumertz/joaolumertz?style=for-the-badge)
 
 Opa opa, tudo bom? Sou o João e programo bots para o discord.
 
