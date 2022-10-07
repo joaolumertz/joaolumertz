@@ -1,17 +1,17 @@
 [<img src="https://user-images.githubusercontent.com/71958194/166125375-c775bac0-4241-4feb-9780-9f05e2ef37b8.png" width=115/>]()
-# João Lumertz
 
-![Stars](https://img.shields.io/github/stars/joaolumertz?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/joaolumertz/joaolumertz?style=for-the-badge)
-![Watchers](https://img.shields.io/github/watchers/joaolumertz/joaolumertz?style=for-the-badge)
+## João Lumertz
 
-Opa opa, tudo bom? Sou o João e programo bots para o discord.
+<div>
+    <a href="https://github.com/joaolumertz">
+    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=joaolumertz&show_icons=true&theme=dracula" />
+</div>
 
-Atualmente estou com vários projetos em mente, e assim que eu terminá-los eles estarão aqui.
+## Tecnologias com as quais trabalho
 
-# Programo em
-- `NodeJS`
-
-# Aprendendo
-- `TypeScript`
-- `Python`
+<div style="display: inline-block"><br/>
+    <img align="center", alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center", alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center", alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img align="center", alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<div>
