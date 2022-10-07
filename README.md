@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá! 👋</h1>
 
-### Opa, meu nome é João. Sou um programador de bots para discord, busco criar um bot que inove a comunidade. 🖐
+### Olá, tudo bom? Sou um programador de bots com um longo caminho pela frente, estou atualmente com vários projetos pela frente que em breve estarão aqui. 🖐
 
 <br/>
 
